@@ -18,7 +18,7 @@ AddEventHandler("Coffee",  function()
 	Menu.hidden = false  
 end)
 ```
-- and add this
+- and a new button
 
 ```lua
    Menu.addButton("Coffee (PRICE$)", "Coffee", nil)
