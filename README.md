@@ -1,8 +1,9 @@
 # Food Store V0.1
 
-You can find Hamburger, Sandwich, Water Bottle and Coke Can in this shop, to add a
+You can buy Hamburger, Sandwich, Water Bottle and Coke Can in this shop, to add a
 food or drink you must do :
- - Create a item like a coffee with value and type
+
+ - Create a item like a coffee with value and type in table items in your database
  - if you want create a coffee add this in client .lua
  
 ```lua
@@ -17,6 +18,12 @@ AddEventHandler("Coffee",  function()
 	Menu.hidden = false  
 end)
 ```
+- and add this
+
+```lua
+   Menu.addButton("Coffee (PRICE$)", "Coffee", nil)
+```
+
 - and you add this in server.lua
 
 ```lua
