@@ -45,6 +45,7 @@ end)
 ## Requirements
 
 ##### Essentialmode 2.X
+##### es_freeroam
 ##### VDK Inventory
 ##### Food Hud V0.3.3
 
