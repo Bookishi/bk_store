@@ -44,13 +44,13 @@ end)
 
 ## Requirements
 
-##### Essentialmode 2.X
-##### es_freeroam
-##### VDK Inventory
-##### Food Hud V0.3.3
+- #####  Essentialmode 2.X
+- ##### es_freeroam
+- ##### VDK Inventory
+- ##### Food Hud V0.3.3
 
 ## Changelog
-#### 2017-05-27 V0.1 
+### 2017-05-27 V0.1 
  - Released bk_store
 
 ## Installation
