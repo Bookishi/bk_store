@@ -29,7 +29,7 @@ end)
 ```lua
 RegisterServerEvent("Coffee_Server")
 AddEventHandler("Coffee_Server", function()
-	TriggerEvent("es:getPlayerFromId", source, function(target)
+    TriggerEvent("es:getPlayerFromId", source, function(target)
 	if (tonumber(target.money) >= PRICE) then
 	TriggerClientEvent("Coffee", source)
 	target:removeMoney(PRICE)
