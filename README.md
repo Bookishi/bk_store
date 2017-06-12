@@ -1,7 +1,7 @@
 # Food Store V0.1
 
-<a href="https://discord.gg/SsJuByY"><img alt="Discord Status" src="https://discordapp.com/api/guilds/321382664466857985/widget.json"></a>
-<iframe src="https://discordapp.com/widget?id=321382664466857985&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+<a href="https://discord.gg/SsJuByY"><img alt="Discord Status" src="https://discordapp.com/api/guilds/321382664466857985/widget.png"></a>
+
 You can buy Hamburger, Sandwich, Water Bottle and Coke Can in this shop, to add a
 food or drink you must do :
 
